@@ -1,2 +1,2 @@
-# Macro_Company
+# Script
 @Fabrinet
